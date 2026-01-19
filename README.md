@@ -22,3 +22,4 @@ Repositorio profesional que demuestra el dominio de técnicas avanzadas de Git y
 
 ## Scripts
 - `node src/healthcheck.js` (healthcheck)
+- Added workflow notes placeholder
