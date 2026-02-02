@@ -1,0 +1,11 @@
+# CODEOWNERS - scv-empresarial
+* @Ivanx20 @Ceadxnet
+
+# Propietarios por área de responsabilidad
+/src/ @Ivanx20
+/docs/ @Ceadxnet
+/tests/ @Ivanx20 @Ceadxnet
+
+# Archivos críticos requieren ambos reviewers
+CONTRIBUTING.md @Ivanx20 @Ceadxnet
+README.md @Ivanx20 @Ceadxnet
