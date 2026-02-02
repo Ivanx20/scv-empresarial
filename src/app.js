@@ -82,3 +82,4 @@ if (require.main === module) {
     console.log('Estadísticas:', manager.getStats());
 }
 
+
